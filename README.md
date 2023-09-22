@@ -1,4 +1,4 @@
-# Blog App Readme
+# KahiBlog
 
 ## Introduction
 
@@ -32,19 +32,7 @@ Once the app is up and running, you can perform the following actions:
 
 - **Modify Your Account:** You can update your account information, such as your username and password, by navigating to the account settings page.
 
-## Contributing
 
-If you would like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name` or `git checkout -b bugfix/issue-number`.
-
-3. Make your changes and commit them: `git commit -m "Your informative commit message here"`.
-
-4. Push your changes to your fork: `git push origin feature/your-feature-name` or `git push origin bugfix/issue-number`.
-
-5. Create a pull request to the `master` branch of the original repository.
 
 ## License
 
